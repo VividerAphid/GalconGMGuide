@@ -2,4 +2,21 @@ body{
     background-color: #222;
     color: #eee;
     font-size: 20px;
+    text-align: center;
+}
+a{
+    color: #0aa;
+}
+#headerDiv{
+    height:10em;
+    background-image: url("./res/blankGalaxy.png");
+    background-size: 100% 150%;
+    background-repeat: no-repeat;
+}
+#title{
+    padding: 1.4em;
+    box-shadow: inset 2000px 0 0 0 rgba(0, 125, 255, 0.5);
+    border-color: rgba(0, 125, 255, 1);
+    font: bold;
+    font-size:50px;
 }

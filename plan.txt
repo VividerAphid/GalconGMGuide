@@ -1,0 +1,10 @@
+X-TLDR(Too lazy, didn't read)
+ -Basics:
+     -The UI
+     -The controls
+     -The basic mechanics
+     -In lobby controls
+
+ -Stars and nerdy data
+
+ -Strategies
