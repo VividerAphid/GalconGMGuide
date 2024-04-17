@@ -4,7 +4,14 @@ X-TLDR(Too lazy, didn't read)
      -The controls
      -The basic mechanics
      -In lobby controls
+     -Hits basic
 
- -Stars and nerdy data
+ -Advanced info
+     -Star increase/decrease
+     -Star equilibriums
+     -Hits advanced
+     -
+
+ -Nerdy data
 
  -Strategies

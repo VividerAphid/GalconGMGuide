@@ -7,6 +7,19 @@ body{
 a{
     color: #0aa;
 }
+.sneakLink{
+    color: #eee;
+}
+.sneakLink:visited{
+    color: #999;
+}
+.sneakLink:hover{
+    color: #0aa;
+}
+.squishDiv{
+    margin-left:5em;
+    margin-right:5em;
+}
 #headerDiv{
     height:10em;
     background-image: url("./res/blankGalaxy.png");
@@ -15,8 +28,8 @@ a{
 }
 #title{
     padding: 1.4em;
-    box-shadow: inset 2000px 0 0 0 rgba(0, 125, 255, 0.5);
-    border-color: rgba(0, 125, 255, 1);
+    box-shadow: inset 2000px 0 0 0 rgba(0, 125, 200, 0.5);
+    border-color: rgba(0, 125, 200, 1);
     font: bold;
     font-size:50px;
 }
